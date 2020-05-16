@@ -1,6 +1,6 @@
 # todoey_flutter
 
-A new Flutter project.
+A To Do flutter app demo.
 
 ## Getting Started
 
